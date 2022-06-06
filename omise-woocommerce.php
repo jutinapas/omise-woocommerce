@@ -20,7 +20,7 @@ class Omise {
 	 *
 	 * @var string
 	 */
-	public $version = '4.20';
+	public $version = '4.20.1';
 
 	/**
 	 * The Omise Instance.
